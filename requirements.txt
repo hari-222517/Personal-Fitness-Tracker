@@ -1,0 +1,24 @@
+📌Python software:
+python --version //this command gives the current version of the python software
+if python not installed then install python first with the version of 3.8 or the latest versions.
+
+📌Required library files:
+pip install streamlit
+pip install pandas
+pip install matplotlib
+pip install sqlite3
+pip install seaborn //for the data visualization
+
+📌After installing the required dependencies:
+cd folder_name //to change the directory to the project file
+
+📌Run the Streamlit app:
+streamlt run file_name.py
+
+this will run at the browser at: http://localhost:8501
+
+📌If you are using a virtual environment:
+python -m venv venv //navigate to the project folder
+
+📌Activate the virtual environment:
+venv\\scripts\\activate
