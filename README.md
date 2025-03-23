@@ -34,6 +34,7 @@ iii)Run the application: streamlit run file_name.py
 │── 📜 README.md               # Project documentation
 │── 📂 assets/                 # Images and resources
 │── 📂 database/               # User data storage (if using SQLite)
+Till now I didn't add any images or link a database for this project so assets and database folder will not be available. In future I will change this.
 
 🎯Future Enhancements:
 🚀 AI-based Workout Recommendations
